@@ -8,6 +8,8 @@ const clicked = function(args)
 {
   if(args.item.iconCss == 'e-icons e-plus')
      gridObj.value.ej2Instances.addRecord();
+  else
+    alert('Item clicked!');
 }
 const data = [
   {
@@ -55,7 +57,7 @@ const itemTemplateContent = "<div class='itemlist'><span class='icon ${iconCss}'
               :radialSettings="radialSettings" cssClass="e-outline"
               :itemTemplate="itemTemplateContent" v-on:clicked="clicked"
               modal="true"></ejsSpeeddial>
-<ejs-grid id="target_id" :dataSource='data' height="330px" width="700px">
+<ejs-grid id="target_id" ref="gridObj" :dataSource='data' height="330px" width="700px" :editSettings="editOptions">
     <e-columns>
       <e-column field='OrderID' width='100' textAlign="Right"></e-column>
       <e-column field='CustomerID' width='100'></e-column>
