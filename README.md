@@ -1,6 +1,14 @@
 # getting-started-with-the-vue-speed-dial-component
 The [Vue Speed Dial](https://www.syncfusion.com/vue-components/vue-speed-dial?utm_source=github&utm_medium=listing&utm_campaign=vue-speed-dial-github-samples) component is an extension of the Vue Floating Action Button that displays a list of action buttons when clicked. A quick start Vue project that shows how to add the Vue Speed Dial component to a Vue application. It shows how to integrate the speed dial into the vue grid. It also shows how to customize the position, direction and display mode of the speed dial.
 
+## Project prerequisites
+
+Make sure that you have the latest versions of Vue, Node, Vue class component, and Visual Studio Code in your machine before starting to work on this project.
+
+### How to run this application?
+
+To run this application, you need to clone the `getting-started-with-the-vue-date-speed-dial` repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project using the `npm install` command and run your project using the `npm run serve` command.
+
 ## Features and Benefits
 
 ### Display modes
@@ -35,8 +43,6 @@ The [Vue Speed Dial](https://www.syncfusion.com/vue-components/vue-speed-dial?ut
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-speed-dial-github-samples)
 
 [Online example](https://ej2.syncfusion.com/vue/demos/#/bootstrap5/speed-dial/default.html?utm_source=github&utm_medium=listing&utm_campaign=vue-speed-dial-github-samples)
-
-[Knowledge base](https://support.syncfusion.com/kb/web/category/73?utm_source=github&utm_medium=listing&utm_campaign=vue-speed-dial-github-samples)
 
 ## About Syncfusion Vue Components
 
