@@ -30,7 +30,7 @@ The [Vue Speed Dial](https://www.syncfusion.com/vue-components/vue-speed-dial?ut
 ## Related links
 [Learn More about Vue Speed Dial](https://www.syncfusion.com/vue-components/vue-speed-dial?utm_source=github&utm_medium=listing&utm_campaign=vue-speed-dial-github-samples)
 
-[Download Free Trial](https://www.syncfusion.com/downloads/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-speed-dial-github-samples)
 
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=vue-speed-dial-github-samples)
 
