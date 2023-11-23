@@ -3,7 +3,7 @@ The [Vue Speed Dial](https://www.syncfusion.com/vue-components/vue-speed-dial?ut
 
 ## Project prerequisites
 
-Make sure that you have the latest versions of Vue, Node, Vue class component, and Visual Studio Code in your machine before starting to work on this project.
+Make sure that you have the latest versions of NodeJS and Visual Studio Code in your machine before starting to work on this project.
 
 ### How to run this application?
 
